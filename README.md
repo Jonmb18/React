@@ -1,5 +1,6 @@
 # React
 React projects and courses
+// Read in Source Blob for maximum understanding!
 
 #1 The Complete React Native + Hooks Course [Udemy]
 
